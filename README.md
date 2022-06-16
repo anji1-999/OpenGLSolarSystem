@@ -1,2 +1,2 @@
 # OpenGLSolarSystem
-opengl+python
+opengl+python3.6
